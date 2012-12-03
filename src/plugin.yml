@@ -1,0 +1,7 @@
+name: BMCTekkitRes
+main: Lihad.BMCTekkitRes.BMCTekkitRes
+version: 1.0
+commands:
+  openalc:
+    description: Invalid Command
+    usage: Invalid Command
